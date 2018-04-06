@@ -1,1 +1,0 @@
-# deltaseg2
